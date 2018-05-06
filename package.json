@@ -1,7 +1,7 @@
 {
   "name": "@beeman/nx-workspace-diff",
   "version": "0.0.0",
-  "description": "This repository exposes an [Nrwl NX](https://github.com/nrwl/nx) workspace generated with `create-nx-workspace my-workspace` with each version of Nrwl NX .",
+  "description": "This repository exposes an [Nrwl NX](https://github.com/nrwl/nx) workspace generated with `create-nx-workspace sandbox` with each version of Nrwl NX .",
   "scripts": {
     "start": "./newVersion.sh"
   },
