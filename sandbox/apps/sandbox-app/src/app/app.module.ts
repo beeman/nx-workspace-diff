@@ -4,8 +4,10 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NxModule } from '@nrwl/nx';
 
 @NgModule({
-  imports: [BrowserModule, NxModule.forRoot()],
+  imports: [
+  BrowserModule,
+  NxModule.forRoot()],
   declarations: [AppComponent],
   bootstrap: [AppComponent]
 })
-export class AppModule {}
+export class AppModule { }
