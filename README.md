@@ -18,9 +18,7 @@ me copy his repo :) !
 
 Version|Compare view|Stats
 ----|----|----
-0.8.0|[0.0.0...0.8.0](https://github.com/beeman/nx-workspace-diff/compare/0.0.0...0.8.0)| 34 files changed, 697 insertions(+)
-1.0.3|[1.0.2...1.0.3](https://github.com/beeman/nx-workspace-diff/compare/1.0.2...1.0.3)| 1 file changed, 2 insertions(+), 2 deletions(-)
-1.0.2|[1.0.1...1.0.2](https://github.com/beeman/nx-workspace-diff/compare/1.0.1...1.0.2)| 1 file changed, 2 insertions(+), 2 deletions(-)
+1.0.3|[1.0.2...1.0.3](https://github.com/beeman/nx-workspace-diff/compare/1.0.2...1.0.3)| 26 files changed, 301 insertions(+), 27 deletions(-)
 1.0.1|[1.0.1-beta.1...1.0.1](https://github.com/beeman/nx-workspace-diff/compare/1.0.1-beta.1...1.0.1)| 1 file changed, 1 insertion(+), 1 deletion(-)
 1.0.1-beta.1|[1.0.0...1.0.1-beta.1](https://github.com/beeman/nx-workspace-diff/compare/1.0.0...1.0.1-beta.1)| 1 file changed, 2 insertions(+), 2 deletions(-)
 1.0.0|[1.0.0-beta.3...1.0.0](https://github.com/beeman/nx-workspace-diff/compare/1.0.0-beta.3...1.0.0)| 1 file changed, 2 insertions(+), 2 deletions(-)
@@ -33,11 +31,15 @@ Version|Compare view|Stats
 0.10.1|[0.10.0...0.10.1](https://github.com/beeman/nx-workspace-diff/compare/0.10.0...0.10.1)| 4 files changed, 20 insertions(+), 3 deletions(-)
 0.10.0|[0.10.0-beta.2...0.10.0](https://github.com/beeman/nx-workspace-diff/compare/0.10.0-beta.2...0.10.0)| 1 file changed, 12 insertions(+), 12 deletions(-)
 0.10.0-beta.2|[0.10.0-beta.1...0.10.0-beta.2](https://github.com/beeman/nx-workspace-diff/compare/0.10.0-beta.1...0.10.0-beta.2)| 1 file changed, 2 insertions(+), 2 deletions(-)
-0.10.0-beta.1|[0.9.1...0.10.0-beta.1](https://github.com/beeman/nx-workspace-diff/compare/0.9.1...0.10.0-beta.1)| 2 files changed, 8 insertions(+), 7 deletions(-)
+0.10.0-beta.1|[0.9.1...0.10.0-beta.1](https://github.com/beeman/nx-workspace-diff/compare/0.9.1...0.10.0-beta.1)| 8 files changed, 32 insertions(+), 21 deletions(-)
 0.9.1|[0.9.0...0.9.1](https://github.com/beeman/nx-workspace-diff/compare/0.9.0...0.9.1)| 1 file changed, 2 insertions(+), 2 deletions(-)
 0.9.0|[0.9.0-beta.5...0.9.0](https://github.com/beeman/nx-workspace-diff/compare/0.9.0-beta.5...0.9.0)| 1 file changed, 2 insertions(+), 2 deletions(-)
 0.9.0-beta.5|[0.9.0-beta.4...0.9.0-beta.5](https://github.com/beeman/nx-workspace-diff/compare/0.9.0-beta.4...0.9.0-beta.5)| 1 file changed, 2 insertions(+), 2 deletions(-)
-0.9.0-beta.4|[0.9.0-beta.3...0.9.0-beta.4](https://github.com/beeman/nx-workspace-diff/compare/0.9.0-beta.3...0.9.0-beta.4)| 13 files changed, 411 insertions(+)
+0.9.0-beta.4|[0.9.0-beta.3...0.9.0-beta.4](https://github.com/beeman/nx-workspace-diff/compare/0.9.0-beta.3...0.9.0-beta.4)| 2 files changed, 3 insertions(+), 3 deletions(-)
+0.9.0-beta.3|[0.9.0-beta.1...0.9.0-beta.3](https://github.com/beeman/nx-workspace-diff/compare/0.9.0-beta.1...0.9.0-beta.3)| 34 files changed, 701 insertions(+)
+0.9.0-beta.1|[0.8.0...0.9.0-beta.1](https://github.com/beeman/nx-workspace-diff/compare/0.8.0...0.9.0-beta.1)| 33 files changed, 693 deletions(-)
+0.8.0|[0.0.0...0.8.0](https://github.com/beeman/nx-workspace-diff/compare/0.0.0...0.8.0)| 33 files changed, 693 insertions(+)
+1.0.2|[1.0.1...1.0.2](https://github.com/beeman/nx-workspace-diff/compare/1.0.1...1.0.2)| 1 file changed, 2 insertions(+), 2 deletions(-)
 0.0.1|[0.0.0...0.0.1](https://github.com/beeman/nx-workspace-diff/compare/0.0.0...0.0.1)| 15 files changed, 433 insertions(+)
 
 
