@@ -3,7 +3,7 @@
   "project": {
     "name": "sandbox",
     "npmScope": "sandbox",
-    "latestMigration": "20180412-nx-update-scripts"
+    "latestMigration": "20180424-add-tsconfig-tools"
   },
   "e2e": {
     "protractor": {
