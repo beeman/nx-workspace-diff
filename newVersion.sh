@@ -61,7 +61,11 @@ NEWLINE/g' README.md
   # delete app
   rm -rf sandbox
   # generate app with new CLI version
-  npx -p ${repository}@${version} create-nx-workspace sandbox --skip-install
+  npx -p ${repository}@${version} create-nx-workspace sandbox
+  cd sandbox
+  ng generate app sandbox-app
+  ng generate lib sandbox-lib
+  cd -
   git add sandbox
   git commit -am "chore: version ${version}"
   diffStat=`git --no-pager diff head~ --shortstat`
